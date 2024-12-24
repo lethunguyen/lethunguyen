@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @lethunguyen
-- 👀 I’m interested in singing
-- 🌱 I’m currently learning and playing music
-- 💞️ I’m looking to collaborate on sharing my interest
-- 📫 How to reach me this Git
-- 😄 Pronouns: Me
-- ⚡ Fun fact: ❤️
+🔭 I like singing, playing guitar and piano no matter what my levels are.
+🌱 Gardening is my favourite but I forget as such I like
+👯 I like beach that I just have discovered recently that I can survive on the sea by a surfing board
+🤔 Help if I can but must be fair
+💬 Ask me about Things I know
+📫 How to reach me: On the Air for Everything as I fly so high and far
+😄 Pronouns: Me as Lethu
+⚡ Fun fact: Space is my favourite.
 
-<!---
-lethunguyen/lethunguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
